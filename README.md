@@ -1,6 +1,6 @@
-![divider](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZyaGU2bzJlMzJsc3dpeHhrc3VzbzBncGwwZjB1anlzaHk1aHl3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif)
-## 👋 Olá, eu sou a Letícia Marques 
 
+## 👋 Olá, eu sou a Letícia Marques 
+![divider](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZyaGU2bzJlMzJsc3dpeHhrc3VzbzBncGwwZjB1anlzaHk1aHl3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif)
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (conclusão em julho/2026)  
 💻 Desenvolvedora em transição de carreira  
 🚀 Foco em Back-end e Desenvolvimento de Sistemas 
