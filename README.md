@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Letícia Marques
 
-<!--
-**LeMS2/LeMS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (conclusão em julho/2026)  
+💻 Desenvolvedora em transição de carreira  
+🚀 Foco em Back-end e Desenvolvimento de Sistemas 
 
-Here are some ideas to get you started:
+Atualmente trabalho com desenvolvimento de sistemas voltados à gestão de frotas e estou aprofundando meus conhecimentos em PHP, PostgreSQL e Laravel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- 💙 PHP
+- 🧡 Java
+- 🗄️ PostgreSQL / MySQL
+- 🌿 Laravel (em aprendizado)
+- 🧩 ScriptCase
+- 🐦 Dart (projetos acadêmicos)
+- 📱 Flutter (projetos acadêmicos)
+- 🔧 Git & GitHub
+
+---
+
+## 📌 Projetos em Destaque
+
+## 🚀 Projetos em destaque
+
+## 🍀 MoodUp (Full Stack)
+- MoodUp-API (Laravel + MySQL + Railway)
+- MoodUp-Mobile (React Native)
+
+## 🧩 CRUDs
+- CRUD em Laravel
+- CRUD Produtos (Java)
+
+## 🎮 Jogos (Java)
+- Xadrez
+- Tetris
+
+## 🌐 Front-end
+- Site de Comidas (HTML/CSS/JS)
+- Site de Filmes (HTML/CSS)
+
+*(Em constante evolução 💡)*
+
+---
+
+## 🎯 Objetivo
+
+Busco oportunidades como Desenvolvedora Júnior ou Analista de Sistemas, onde eu possa aplicar meus conhecimentos técnicos, aprender com profissionais experientes e contribuir com soluções eficientes.
+
+---
+
+## 📫 Como me encontrar
+
+💼 LinkedIn: https://www.linkedin.com/in/leticia-soares-298511177  
+📧 Email: leticia-soares26@hotmail.com  
+
+---
+
+⭐ Obrigada por visitar meu perfil!
