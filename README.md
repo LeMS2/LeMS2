@@ -9,7 +9,9 @@
 
 Atualmente trabalho com desenvolvimento de sistemas voltados à gestão de frotas e estou aprofundando meus conhecimentos em PHP, PostgreSQL e Laravel.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7B00FF&height=2&section=footer"/>
+</p>
 
 ## 🛠️ Tecnologias e Ferramentas
 
