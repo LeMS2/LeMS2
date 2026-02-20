@@ -1,12 +1,6 @@
-<h1 align="center">
-  <span style="
-    background: linear-gradient(90deg, #00f5ff, #8a2be2, #ff00ff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  ">
-    Olá, eu sou a Letícia Marques!
-  </span>
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7B00FF&height=140&section=header&text=Olá,%20eu%20sou%20a%20Letícia%20Marques!&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="center">
   <img src="assets/banner.gif" width="120">
