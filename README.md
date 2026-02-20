@@ -1,8 +1,11 @@
+<h1 align="center">
+  Olá, eu sou a Letícia Marques!
+</h1>
+
 <p align="center">
-  <img src="assets/banner.gif" width="650">
+  <img src="assets/banner.gif" width="120">
 </p>
 
-## 👋 Olá, eu sou a Letícia Marques 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (conclusão em julho/2026)  
 💻 Desenvolvedora em transição de carreira  
 🚀 Foco em Back-end e Desenvolvimento de Sistemas 
