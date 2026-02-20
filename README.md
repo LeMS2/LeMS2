@@ -21,8 +21,6 @@ Atualmente trabalho com desenvolvimento de sistemas voltados à gestão de frota
 
 ---
 
-## 📌 Projetos em Destaque
-
 ## 🚀 Projetos em destaque
 
 ## 🍀 MoodUp (Full Stack)
