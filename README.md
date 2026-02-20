@@ -23,9 +23,10 @@ Atualmente trabalho com desenvolvimento de sistemas voltados à gestão de frota
 
 ## 🚀 Projetos em destaque
 
-## 🍀 MoodUp (Full Stack)
-- MoodUp-API (Laravel + MySQL + Railway)
-- MoodUp-Mobile (React Native)
+## 🍀 MoodUp ( Aplicação Full Stack - em desenvolvimento)
+• API REST em Laravel + MySQL (Deploy no Railway)
+• Aplicação Mobile em React Native
+• Arquitetura separada entre backend e frontend
 
 ## 🧩 CRUDs
 - CRUD em Laravel
@@ -46,6 +47,13 @@ Atualmente trabalho com desenvolvimento de sistemas voltados à gestão de frota
 ## 🎯 Objetivo
 
 Busco oportunidades como Desenvolvedora Júnior ou Analista de Sistemas, onde eu possa aplicar meus conhecimentos técnicos, aprender com profissionais experientes e contribuir com soluções eficientes.
+
+---
+
+## 📊 Atualmente estudando
+- Boas práticas em API REST
+- Estruturação de projetos Laravel
+- Arquitetura de aplicações
 
 ---
 
