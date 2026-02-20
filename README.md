@@ -1,5 +1,11 @@
 <h1 align="center">
-  Olá, eu sou a Letícia Marques!
+  <span style="
+    background: linear-gradient(90deg, #00f5ff, #8a2be2, #ff00ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  ">
+    Olá, eu sou a Letícia Marques!
+  </span>
 </h1>
 
 <p align="center">
