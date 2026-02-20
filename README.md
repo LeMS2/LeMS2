@@ -1,15 +1,10 @@
 <!-- BANNER ELEGANTE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=20&section=header&text=Olá,%20eu%20sou%20a%20Letícia%20Marques&fontSize=18&fontColor=B0E0E6&animation=fadeIn" />
-</p>
-
-<!-- LINHA NEON SUAVE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=20&section=header&text=Olá,%20eu%20sou%20a%20Letícia%20Marques&fontSize=17&fontColor=B0E0E6&animation=fadeIn" />
 </p>
 
 <!-- GIF PEQUENO DISCRETO -->
-<p align="left">
+<p align="right">
   <img src="assets/banner.gif" width="100" alt="tech gif" />
 </p>
 
