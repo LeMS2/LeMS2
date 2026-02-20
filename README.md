@@ -1,9 +1,27 @@
+<!-- BANNER ELEGANTE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=25&section=header&text=Olá,%20eu%20sou%20a%20Letícia%20Marques!&fontSize=18&fontColor=696969" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=140&section=header&text=Olá,%20eu%20sou%20a%20Letícia%20Marques&fontSize=34&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<!-- LINHA NEON SUAVE -->
 <p align="center">
-  <img src="assets/banner.gif" width="120">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&section=footer" />
+</p>
+
+<!-- GIF PEQUENO DISCRETO -->
+<p align="center">
+  <img src="assets/banner.gif" width="70" alt="tech gif" />
+</p>
+
+<!-- STATS HARMONIZADAS -->
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LeMS2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeMS2&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- LINHA FINAL (opcional, combina com o topo) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2&section=footer" />
 </p>
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (conclusão em julho/2026)  
