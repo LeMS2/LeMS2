@@ -1,4 +1,4 @@
-<p align="center"> <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZyaGU2bzJlMzJsc3dpeHhrc3VzbzBncGwwZjB1anlzaHk1aHl3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif]" width="650px"/> </p>
+<p align="center"> <img src="(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZyaGU2bzJlMzJsc3dpeHhrc3VzbzBncGwwZjB1anlzaHk1aHl3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif)" width="650px"/> </p>
 
 ## 👋 Olá, eu sou a Letícia Marques 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (conclusão em julho/2026)  
