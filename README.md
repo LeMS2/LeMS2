@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7B00FF&height=20&section=header&text=Olá,%20eu%20sou%20a%20Letícia%20Marques!&fontSize=18&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f1c2c,100:928DAB&height=40&section=header&text=Olá,%20eu%20sou%20a%20Letícia%20Marques!&fontSize=18&fontColor=ffffff" />
 </p>
 
 <p align="center">
