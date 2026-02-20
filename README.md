@@ -1,7 +1,7 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZyaGU2bzJlMzJsc3dpeHhrc3VzbzBncGwwZjB1anlzaHk1aHl3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="650px"/>
+<p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZyaGU2bzJlMzJsc3dpeHhrc3VzbzBncGwwZjB1anlzaHk1aHl3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="650px"/>
 </p>
 
-# 👋 Olá, eu sou a Letícia Marques <p align="center">
+# 👋 Olá, eu sou a Letícia Marques 
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (conclusão em julho/2026)  
 💻 Desenvolvedora em transição de carreira  
@@ -24,7 +24,9 @@ Atualmente trabalho com desenvolvimento de sistemas voltados à gestão de frota
 - 📱 Flutter (projetos acadêmicos)
 - 🔧 Git & GitHub
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7B00FF&height=2&section=footer"/>
+</p>
 
 ## 🚀 Projetos em destaque
 
@@ -49,26 +51,34 @@ Atualmente trabalho com desenvolvimento de sistemas voltados à gestão de frota
 
 *(Em constante evolução 💡)*
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7B00FF&height=2&section=footer"/>
+</p>
 
 ## 🎯 Objetivo
 
 Busco oportunidades como Desenvolvedora Júnior ou Analista de Sistemas, onde eu possa aplicar meus conhecimentos técnicos, aprender com profissionais experientes e contribuir com soluções eficientes.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7B00FF&height=2&section=footer"/>
+</p>
 
 ## 📊 Atualmente estudando
 - Boas práticas em API REST
 - Estruturação de projetos Laravel
 - Arquitetura de aplicações
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7B00FF&height=2&section=footer"/>
+</p>
 
 ## 📫 Como me encontrar
 
 💼 LinkedIn: https://www.linkedin.com/in/leticia-soares-298511177  
 📧 Email: leticia-soares26@hotmail.com  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7B00FF&height=2&section=footer"/>
+</p>
 
 ⭐ Obrigada por visitar meu perfil!
