@@ -1,6 +1,6 @@
 <!-- BANNER ELEGANTE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=140&section=header&text=Olá,%20eu%20sou%20a%20Letícia%20Marques&fontSize=34&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=20&section=header&text=Olá,%20eu%20sou%20a%20Letícia%20Marques&fontSize=18&fontColor=B0E0E6&animation=fadeIn" />
 </p>
 
 <!-- LINHA NEON SUAVE -->
@@ -9,14 +9,8 @@
 </p>
 
 <!-- GIF PEQUENO DISCRETO -->
-<p align="center">
-  <img src="assets/banner.gif" width="70" alt="tech gif" />
-</p>
-
-<!-- STATS HARMONIZADAS -->
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LeMS2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeMS2&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <img src="assets/banner.gif" width="100" alt="tech gif" />
 </p>
 
 <!-- LINHA FINAL (opcional, combina com o topo) -->
