@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZyaGU2bzJlMzJsc3dpeHhrc3VzbzBncGwwZjB1anlzaHk1aHl3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="650px"/>
+<p align="center"><img src="(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZyaGU2bzJlMzJsc3dpeHhrc3VzbzBncGwwZjB1anlzaHk1aHl3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif)" width="650px"/>
 </p>
 
 ## 👋 Olá, eu sou a Letícia Marques 
@@ -13,7 +13,7 @@ Atualmente trabalho com desenvolvimento de sistemas voltados à gestão de frota
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7B00FF&height=2&section=footer"/>
 </p>
 
-# 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 - 💙 PHP
 - 🧡 Java
@@ -30,22 +30,22 @@ Atualmente trabalho com desenvolvimento de sistemas voltados à gestão de frota
 
 ## 🚀 Projetos em destaque
 
-# 🍀 MoodUp ( Aplicação Full Stack - em desenvolvimento)
+### 🍀 MoodUp ( Aplicação Full Stack - em desenvolvimento)
 • API REST em Laravel + MySQL (Deploy no Railway)
 
 • Aplicação Mobile em React Native
 
 • Arquitetura separada entre backend e frontend
 
-# 🧩 CRUDs
+### 🧩 CRUDs
 - CRUD em Laravel
 - CRUD Produtos (Java)
 
-# 🎮 Jogos (Java)
+### 🎮 Jogos (Java)
 - Xadrez
 - Tetris
 
-# 🌐 Front-end
+### 🌐 Front-end
 - Site de Comidas (HTML/CSS/JS)
 - Site de Filmes (HTML/CSS)
 
