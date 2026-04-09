@@ -41,7 +41,7 @@ Atualmente trabalho com desenvolvimento de sistemas voltados à gestão de frota
 ## 🚀 Projetos em destaque
 
 ### 🍀 MoodUp ( Aplicação Full Stack - em desenvolvimento)
-• API REST em Laravel + MySQL (Deploy no Railway)
+• API REST em Laravel + PostgreSQL
 
 • Aplicação Mobile em React Native
 
